@@ -8,3 +8,7 @@ After we had been f.cked as working class slaves for several years, we decided t
 
 ## Contributions
 Contributions are welcome - e.g. via Pull Requests.
+
+## Spread Love
+
+[![Screenshot 2022-06-13 at 17 15 28](https://user-images.githubusercontent.com/43786652/173386659-e8a73aec-bd77-4a73-8e6e-9a1dcc0e480d.png)](https://www.youtube.com/watch?v=J7GY1Xg6X20)
