@@ -294,7 +294,9 @@ const router = new VueRouter({
 export default router;
 
 export function getTitle(route: Route = router.currentRoute): string {
-  const name: string = route.meta.title();
-  if (!name) return prefix;
-  return name;
+  {
+    const name: string = route.meta.title();
+    if (!name) return prefix;
+    return name;
+  }
 }

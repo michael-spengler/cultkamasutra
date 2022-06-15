@@ -10,9 +10,8 @@
       <tl-flow horizontal="start" vertical="start" class="contact-grid">
         <p>
           Michael Spengler<br />
-          Zollhofgarten 8<br />
-          Wohnung 401<br />
-          69115 Heidelberg<br />
+          ohne festen Wohnsitz<br />
+          erreichbar per https://github.com/michael-spengler<br />
           <br />
           +49 (0) 151 67 83 38 69
         </p>
