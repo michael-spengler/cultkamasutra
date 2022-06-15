@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.99bd801f573a5c22b82cfee8eddea786.js"
+  "/precache-manifest.5e1241e9d60a39575251fa2c7358b61c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sportkamasutra-frontend"});
