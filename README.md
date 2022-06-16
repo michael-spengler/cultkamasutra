@@ -3,7 +3,7 @@ This is an education project to spread [love](https://cultkamasutra.eth.limo/), 
 
 After we had been f.cked as working class slaves for several years, we decided to f.ck the former f.ckers (only financially of course). This is why we from https://sportkamasutra.com chose to support the [cult](https://cultdao.io) by providing a [cultic version](https://cultkamasutra.eth.limo) and some other [fancy shit](https://cultdao-ecosystem.eth.limo).
 
-We join the cult to end [manipulation](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) and to foster the emergence of reasonable and [fair](https://github.com/michael-spengler/fairness/blob/main/README.md) systems.
+We also join the [cult](https://cultdao.io) to end [manipulation](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/real-life-thrillers.md) and to foster the emergence of reasonable and [fair](https://github.com/michael-spengler/fairness/blob/main/README.md) systems.
 
 ## Contributions
 Contributions are welcome - e.g. via Pull Requests.
