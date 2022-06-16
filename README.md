@@ -20,22 +20,5 @@ One idea to further support the [cult](https://cultdao.io/manifesto.pdf) might b
 ### Cult Kamasutra Community Chat
 Another idea to further support the [cult](https://cultdao.io/manifesto.pdf) might be to offer chatrooms and videorooms via decentralized infrastructures, so that [cultkamasutra](https://cultkamasutra.eth.limo) fans can come together, share experiences etc. 
 
-## CULT.DAO Proposals
-We consider to [submit a combined proposal](https://app.cultdao.io/submitProposal) to ask the [cultdao](https://cultdao.io) voters if they like our ideas for further features, which are also listed [here](https://github.com/michael-spengler/fairness/blob/main/README.md) and which would need to be detailed out.    
-We also consider providing a workflow based on the [contributor assistant](https://github.com/contributor-assistant) to simplify the provisioning of the required parameters - which are:   
-1. Name of the Guardian submitting the Proposal   
-2. Guardian Discord or Twitter Handle   
-3. Guardian Wallet Address   
-4. What is the name of the Project?  
-5. Provide a short description of the Project, and why it is suitable for investment from the CULT  
-6. Please provide either an investment deck, a Litepaper or a whitepaper. This must include your tokenomics, will all current token owners, your projected future fund raise and all details    
-7. Provide all social channels associated with the project  
-8. Provide links to the audited token and contracts  
-9. Provide the percentage of the token supply being offered in return for 13 Ethereum worth of investment (0.25 - 5)  
-10. Provide the rate at which the investee token will be swapped for CULT. For example X% per day, week or month, for x number of months  
-11. Confirm 50% of the CULT once swapped will be sent to our dCULT contract and 50% sent to a burn wallet  
-12. Confirm that the anticipated IDO date is within 12 weeks of the end date of the proposal  
-13. Provide the main ethereum wallet for the project        
-
 
  
