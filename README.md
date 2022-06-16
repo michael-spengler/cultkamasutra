@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=J7GY1Xg6X20
 Contributions are welcome - e.g. via Pull Requests.
 
 ### Cult Kamasutra NFTs 
-One idea to further support the [cult](https://cultdao.io/manifesto.pdf) might be to offer [cultkamasutra](https://cultkamasutra.eth.limo) NFTs, which can be invested in by using [cult](https://coinmarketcap.com/currencies/cult-dao/).  
+One idea to further support the [cult](https://cultdao.io/manifesto.pdf) might be to offer [cultkamasutra](https://cultkamasutra.eth.limo) NFTs, which can be invested in by using [cult](https://coinmarketcap.com/currencies/cult-dao/) via [THE NFT CULT Platform](https://github.com/michael-spengler/fairness/tree/main/nft-platform-which-only-accepts-cult-for-payments).  
 
 ### Cult Kamasutra Community Chat
 Another idea to further support the [cult](https://cultdao.io/manifesto.pdf) might be to offer chatrooms and videorooms via decentralized infrastructures, so that [cultkamasutra](https://cultkamasutra.eth.limo) fans can come together, share experiences etc. 
