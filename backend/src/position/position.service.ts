@@ -141,7 +141,7 @@ export class PositionService {
         };
       })
       .sort((a, b) => b.amount - a.amount)
-      .slice(0, 4)
+      .slice(0, 6)
       .map((x) => x._id);
   }
 }
