@@ -132,6 +132,7 @@ export class PositionService {
     models.forEach((x) => ids.push(...x.likedPositions));
     const unique: string[] = [...new Set(ids)];
 
+    console.log("here")
     return unique
       .map((x) => {
         return {
@@ -140,7 +141,7 @@ export class PositionService {
         };
       })
       .sort((a, b) => b.amount - a.amount)
-      .slice(0, 25)
+      .slice(0, 4)
       .map((x) => x._id);
   }
 }
