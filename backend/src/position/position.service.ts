@@ -60,13 +60,13 @@ export class PositionService {
     await this.positionModel.deleteOne({ _id: id });
   }
 
-  public async updatePosition(
-    id: string,
-    options: UpdatePositionDTO,
-  ): Promise<IPosition> {
-    await this.positionModel.findById(id).updateOne({ $set: { ...options } });
-    return await this.positionModel.findById(id);
-  }
+  // public async updatePosition(
+  //   id: string,
+  //   options: UpdatePositionDTO,
+  // ): Promise<IPosition> {
+  //   await this.positionModel.findById(id).updateOne({ $set: { ...options } });
+  //   return await this.positionModel.findById(id);
+  // }
 
   public async findPositions(
     men: boolean,

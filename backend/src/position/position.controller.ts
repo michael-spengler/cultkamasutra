@@ -64,16 +64,16 @@ export class PositionController {
     this.positionService.deletePosition(id);
   }
 
-  @SKRoles(['admin'])
-  @SKPermissions(['position.update'])
-  @UseGuards(AuthGuard('jwt'), RolesGuard)
-  @Put('update/:id')
-  async updatePosition(
-    @Param('id') id: string,
-    @Body() options: UpdatePositionDTO,
-  ): Promise<IPosition> {
-    return this.positionService.updatePosition(id, options);
-  }
+  // @SKRoles(['admin'])
+  // @SKPermissions(['position.update'])
+  // @UseGuards(AuthGuard('jwt'), RolesGuard)
+  // @Put('update/:id')
+  // async updatePosition(
+  //   @Param('id') id: string,
+  //   @Body() options: UpdatePositionDTO,
+  // ): Promise<IPosition> {
+  //   return this.positionService.updatePosition(id, options);
+  // }
 
   @UseGuards(AuthGuard('jwt'), RolesGuard)
   @Get('liked')
