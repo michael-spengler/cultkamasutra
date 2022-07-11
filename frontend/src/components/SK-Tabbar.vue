@@ -9,16 +9,12 @@
       :title="$getText('ui.tabbar.home', 'Home')"
       routeName="home"
     />
-    <tc-tabbar-item
-      icon="book-filled"
-      :title="$getText('ui.tabbar.books', 'Books')"
-      routeName="ebooks"
-    />
-    <tc-tabbar-item
-      icon="user-filled"
-      :title="$getText('ui.tabbar.profile', 'Profile')"
-      routeName="profile"
-    />
+    <a href="https://cultdao.io/manifesto.pdf" target="_blank">
+      <tc-tabbar-item icon="book-filled" :title="'Manifesto'" />
+    </a>
+    <a href="https://youtu.be/6IoAp1f3tVk" target="_blank">
+      <tc-tabbar-item icon="user-filled" :title="'Video'" />
+    </a>
     <tc-tabbar-item
       icon="chat-bubble"
       :title="$getText('ui.tabbar.chat', 'Chat')"
@@ -33,7 +29,7 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component } from 'vue-property-decorator';
+import { Vue, Component } from "vue-property-decorator";
 @Component
 export default class SKTabbar extends Vue {}
 </script>
@@ -45,5 +41,10 @@ export default class SKTabbar extends Vue {}
     transform: translateY(calc(50px + env(safe-area-inset-bottom)));
     opacity: 0;
   }
+}
+
+a {
+  color: inherit;
+  text-decoration: none; /* no underline */
 }
 </style>

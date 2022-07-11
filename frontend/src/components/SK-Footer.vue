@@ -22,7 +22,7 @@
     <br />
     <div class="footer-grid">
       <div class="copyright">
-        © CultKamasutra 2020
+        © CultKamasutra 2022
       </div>
       <tl-flow class="legal">
         <tc-link color="color" routeName="impressum">Impressum</tc-link>

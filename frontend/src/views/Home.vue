@@ -16,7 +16,7 @@
       <div content>
         <h3 center>
           {{
-            $getText('ui.home.title', 'Fitnesstraining with Pleasure & Fun.')
+            $getText('ui.home.title', 'Make Love - Not War')
           }}
         </h3>
 
@@ -28,11 +28,11 @@
           />
         </SKCarousel>
 
-        <p center>
+        <!-- <p center>
           <tc-link routeName="positions-overview">
             {{ $getText('ui.home.view-all', 'view all') }}
           </tc-link>
-        </p>
+        </p> -->
 
         <br />
         <p center>
@@ -53,14 +53,22 @@
           />
         </tl-flow>
         <br />
-        <p
+        <tl-flow>
+          <a href="https://cultdao.io/manifesto.pdf" target="_blank">
+          <tc-button
+            variant="filled"
+            :name='"Read The CULT Manifesto"'
+          />
+          </a>
+        </tl-flow>
+        <!-- <p
           center
           max
           v-for="(p, i) in $getText('ui.home.about', ' ').split('\\n')"
           :key="'p' + i"
         >
           {{ p }}
-        </p>
+        </p> -->
       </div>
     </div>
     <SKFooter />
@@ -128,4 +136,9 @@ export default class Home extends Vue {
     margin-right: auto;
   }
 }
+a {
+  color: inherit;
+  text-decoration: none; /* no underline */
+}
+
 </style>
