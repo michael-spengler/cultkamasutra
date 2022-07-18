@@ -1384,11 +1384,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/statistics/chart.svg"
   },
   {
-    "revision": "6d02d4837f4628299fa8",
+    "revision": "3365da08e2b22f83cea4",
     "url": "/css/app.866daabd.css"
   },
   {
-    "revision": "6d02d4837f4628299fa8",
+    "revision": "3365da08e2b22f83cea4",
     "url": "/css/app.866daabd.css.map"
   },
   {
@@ -1400,20 +1400,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-02ef5092.e3ee56a1.css.map"
   },
   {
-    "revision": "a0c94fa4db4812c6a897",
-    "url": "/css/chunk-0472950e.c94ba261.css"
-  },
-  {
-    "revision": "a0c94fa4db4812c6a897",
-    "url": "/css/chunk-0472950e.c94ba261.css.map"
-  },
-  {
     "revision": "711ff11c5818580b36b6",
     "url": "/css/chunk-15c5570c.5e577dfd.css"
   },
   {
     "revision": "711ff11c5818580b36b6",
     "url": "/css/chunk-15c5570c.5e577dfd.css.map"
+  },
+  {
+    "revision": "2f6ebcd5da6eca0c4447",
+    "url": "/css/chunk-3ca828a2.881b020f.css"
+  },
+  {
+    "revision": "2f6ebcd5da6eca0c4447",
+    "url": "/css/chunk-3ca828a2.881b020f.css.map"
   },
   {
     "revision": "d5943562c2f00ca332a4",
@@ -1464,16 +1464,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.12a267b6.css.map"
   },
   {
-    "revision": "ddc42e0317a3ffe5464b7bf4d47bece3",
+    "revision": "73c00a6179e630180fbf8f073d0c5828",
     "url": "/index.html"
   },
   {
-    "revision": "6d02d4837f4628299fa8",
-    "url": "/js/app.ec846c4d.js"
+    "revision": "3365da08e2b22f83cea4",
+    "url": "/js/app.887f8a48.js"
   },
   {
-    "revision": "6d02d4837f4628299fa8",
-    "url": "/js/app.ec846c4d.js.map"
+    "revision": "3365da08e2b22f83cea4",
+    "url": "/js/app.887f8a48.js.map"
   },
   {
     "revision": "98ae955e48800b07f140",
@@ -1484,20 +1484,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-02ef5092.b11ae129.js.map"
   },
   {
-    "revision": "a0c94fa4db4812c6a897",
-    "url": "/js/chunk-0472950e.8d2e8c68.js"
-  },
-  {
-    "revision": "a0c94fa4db4812c6a897",
-    "url": "/js/chunk-0472950e.8d2e8c68.js.map"
-  },
-  {
     "revision": "711ff11c5818580b36b6",
     "url": "/js/chunk-15c5570c.444d841d.js"
   },
   {
     "revision": "711ff11c5818580b36b6",
     "url": "/js/chunk-15c5570c.444d841d.js.map"
+  },
+  {
+    "revision": "2f6ebcd5da6eca0c4447",
+    "url": "/js/chunk-3ca828a2.64c4e1e1.js"
+  },
+  {
+    "revision": "2f6ebcd5da6eca0c4447",
+    "url": "/js/chunk-3ca828a2.64c4e1e1.js.map"
   },
   {
     "revision": "d5943562c2f00ca332a4",

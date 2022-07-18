@@ -16,7 +16,7 @@
       <div content>
         <h3 center>
           {{
-            $getText('ui.home.title', 'Make Love - Not War')
+            $getText('ui.home.title', 'Make Love - Not War - and #readthemanifesto')
           }}
         </h3>
 
