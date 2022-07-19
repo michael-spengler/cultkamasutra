@@ -216,27 +216,27 @@ const router = new VueRouter({
     //     { path: '*', redirect: { name: 'profile' } }
     //   ]
     // },
-    // {
-    //   path: '/search',
-    //   name: 'search',
-    //   component: () => import('@/views/search/Search.vue'),
-    //   meta: {
-    //     title: () => prefix + getText('ui.tabbar.Search', 'Search'),
-    //     fullscreen: true
-    //   }
-    // },
-    // {
-    //   path: '/search/:sex/:muscle',
-    //   name: 'search-results',
-    //   component: () => import('@/views/search/Results.vue'),
-    //   meta: {
-    //     title: () => prefix + getText('ui.tabbar.Search', 'Search'),
-    //     prev: {
-    //       name: 'search',
-    //       title: () => getText('ui.tabbar.Search', 'Search')
-    //     }
-    //   }
-    // },
+    {
+      path: '/search',
+      name: 'search',
+      component: () => import('@/views/search/Search.vue'),
+      meta: {
+        title: () => prefix + getText('ui.tabbar.Search', 'Search'),
+        fullscreen: true
+      }
+    },
+    {
+      path: '/search/:sex/:muscle',
+      name: 'search-results',
+      component: () => import('@/views/search/Results.vue'),
+      meta: {
+        title: () => prefix + getText('ui.tabbar.Search', 'Search'),
+        prev: {
+          name: 'search',
+          title: () => getText('ui.tabbar.Search', 'Search')
+        }
+      }
+    },
     {
       path: '/chat',
       name: 'chatbot',

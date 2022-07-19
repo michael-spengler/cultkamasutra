@@ -160,7 +160,7 @@ export default class ChatBot extends Vue {
       _id: new Date().getTime(),
     };
 
-    const messageFromSportkamasutraCoach = `I'm reading the CULT manifesto. I invite you to consider exploring the cultdao.io & https://cultdao-ecosystem.eth.limo.`;
+    const messageFromSportkamasutraCoach = `I'm reading the CULT manifesto. I invite you to explore the cultdao.io. If you can't understand everything at the beginning, please click "search" and train your body first.`;
 
     this.chatMessages.push({
       ...messageFromUser,
